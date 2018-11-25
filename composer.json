@@ -1,0 +1,16 @@
+{
+  "name":"drupal-konamicode/asteroids",
+  "type": "drupal-library",
+  "description": "Drupal Konami Code Asteroids jQuery plugin",
+  "keywords": ["drupal","konamicode","asteroids"],
+  "homepage": "https://github.com/drupal-konamicode/asteroids",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bram Driesen",
+      "email": "bram.opensource@gmail.com",
+      "homepage": "https://github.com/drupal-konamicode",
+      "role": "Maintainer"
+    }
+  ]
+}
